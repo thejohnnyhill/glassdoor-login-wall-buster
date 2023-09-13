@@ -1,0 +1,21 @@
+body {
+  height: unset !important;
+  overflow: unset !important;
+  position: unset !important;
+}
+
+#HardsellOverlay,
+#LoginModal,
+.v2__EIReviewDetailsV2__continueReading,
+.review-details__review-details-module__showMoreButton {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+.v2__EIReviewDetailsV2__isCollapsed,
+.review-details__review-details-module__isCollapsed {
+  overflow: unset !important;
+  max-height: unset !important;
+  position: unset !important;
+  white-space: unset !important;
+}
